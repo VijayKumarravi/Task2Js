@@ -1,0 +1,119 @@
+Htmi-- Hyper text markup language
+its not a programing language
+self tag--? meta and hr br and img input
+              
+              16th feb class 
+ 
+1.  Header -->> H1 to h6
+
+2.  Paragraph  ---> we can use loram also
+
+3.  hr ---> horizantal tag itans give the line
+
+4.  br ---> break tag
+
+5.  text tag ---> u and i and b , strong nd sub and sup and mark
+               u tag -> underline the word
+               i tag -> italic
+               b and strong -> both are same 
+               sub ->  camical react lyk h20  lower side
+               sup -> mathes lyk a2 upper side
+               mark--> colouring the word
+
+6.  Anchor tag (linking tag)  a -->    target="_blank" -> in this tag we can use for another tab (the link its ging for another tab)
+
+
+7.  img tag
+
+8.  list tag ---> ordered list (ol) and unordered list(ul)  WE CAN USE OF <LI> TAG
+
+9.  Table ---> th and tr and td
+
+         17th feb class
+
+10.  forms ---> input placeholder type(important) button, lable and required .... forms inside we can use for input and label tag
+   Text area we can use of feedback == if any options giving we can use of select tag inside select we can use of option value
+
+11.  media elements ---> audio and video so we can use of controls elemnts
+
+12.  Sementic tags ---> Header footer section and nav
+
+
+      19th Feb CSS class 
+
+1. Types of CSS
+    inline css  -> the colour should be changes in only one line and priority its first for inline css only
+    Internal CSS ->simply open the style tag in same sheet and call the particular tag
+    external css -> we can reate the another sheet and use 
+
+2. CSS syntax
+   selector
+{
+   property:value;
+}
+
+3. Selectors
+     elements selector --> we can use only for the tags name like h1 h2 h3
+     class selectors  --> we can use the . symbol only and class selectors is multiple time we can use the same class name
+     id --> we can use the # symbol and id selectos is we can use uniquickly it means only one time
+     universal  -->(*) it will apply to the entire site
+     group selector -> mostly we didn't use a group selector. So we have to know like group selector means (calss are id selctors are different tagswe want to change the same stylewe go with the group selector)
+
+        20th Feb 2026 
+4. colours and backgrounds
+   the three types there --> colour name, hexa decimal and rgb 
+   
+    background-image: url(./csm_html-tagst_9c34285cd8.webp);
+         background-repeat: no-repeat;
+         background-position: center;
+         background-size: cover;
+         background-size: cover;
+
+5. Text styling
+           color: #971f7f;
+      font-size: 50px;
+      font-weight: 900;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      text-align: center;
+      text-transform: capitalize;
+      text-decoration: underline;
+      line: height 1;
+      letter-spacing: 10px;
+        
+6. Box modeling
+      content
+      padding -we want to give the space around to the content
+      margin -we want to give the space around to the padding
+      border-we want to give the space around to the border
+
+                       24th Feb 2026
+7.position->Moving one place to another place
+    static -> Default
+    relative -using top bottom and left and right
+    absolute -> can search the non static parent, if there means it will work like a relative, otherwise it will search another parent
+    fixed -> to be fixed the place
+    sticky -> top 0 and z-index 100
+
+8.  Flex (Display) One dimensional layout System
+=>> using Display: flex; (align column into row)
+==> Flex direction row, row-reverse, column, column-reverse
+=> Justify content (X) start, end, center, space-around, spa
+ ==> Align Items (Y) (Set the height) start, end, center
+ flex-wrap nowrap, wrap, wrap-reverse
+gap to be assign with Values (px,m, cm, rem, %, vh, ww)
+width: 200px;
+>Align content (Y) (Set the height) (enable the wrap) star
+ ==> flex (on item property) flex:1
+ > Order Change the visual order of the property
+
+9. Grid (display) Two dimensional LayoutSystem
+  Using Display Grid no change
+           grid-template-columns: 300px 300px 300px;
+    We can use percentage also and  -->      grid-template-columns: 30% 30% 30%;
+   mixed -> 30%,250px,200% , 1fr 2% 1fr ,  repeat(7,150px )
+
+    grid-template-columns -->    300px 300px 300px;
+    We can use percentage also and  -->      grid-template-columns: 30% 30% 30%;
+   mixed -> 30%,250px,200% , 1fr 2% 1fr ,  repeat(7,150px )
+    
+    

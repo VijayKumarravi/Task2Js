@@ -1,0 +1,126 @@
+   /* * {
+    box-sizing: border-box;
+ }
+    */
+   /* h1{
+    color: bisque;
+   }
+
+   h2{
+    color: #b12929;
+   }
+
+   .select>h1{
+    color: yellow;
+   }
+
+   #box>h1{
+    color: darkgreen;
+   }
+
+   h5{
+      color: #971f7f;
+      font-size: 50px;
+      font-weight: 900;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      text-align: center;
+      text-transform: capitalize;
+text-decoration: underline;
+line: height 1;
+letter-spacing: 10px;
+
+}
+
+   p{
+     
+    background-image: url(./csm_html-tagst_9c34285cd8.webp);
+         background-repeat: no-repeat;
+         background-position: center;
+         background-size: cover;
+         background-size: cover;
+         
+   } */
+
+
+/* #vijay>h1,
+#vijay>h2,
+#vijay>h3,
+#vijay>h4{
+color: violet;
+} */
+
+/* .Mine{
+   line-height: 10px;
+   text-align: center;
+   text-decoration: black;
+   font-size: xx-small;
+      width: 300px;
+   height: 450px;
+   padding: 20px;
+background-color: d3d3d3;
+margin-left: 600px;
+padding-bottom: 50px;
+padding-top: 20px;
+margin-top: 150px;
+border-color: black;
+border: 3px solid black;
+}
+.profile img{
+  width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 4px solid #474848;
+    object-fit: cover;
+    margin-top: 10px;
+}
+.profile h2{
+margin-top: 15px;
+}
+    .Mine1{
+   line-height: 1px;
+   text-align: justify;
+   text-decoration: solid;
+   font-size: medium;
+   
+}
+
+.Mine2{
+   text-align: center;
+} */
+
+.page{
+   height: 400px;
+   width: 400px;
+   background-color: rgb(250, 241, 241);
+   border: 5px solid black;
+margin-left: 600px;
+margin-top: 250px;
+}
+.page h3{
+   text-align: center;
+   padding: 10px;
+   margin-top: 70px;
+
+}
+.page h1{
+   text-align: center;
+}
+ 
+ .page h2{
+   text-align: center;
+font: optional; color: rgb(112, 107, 100); 
+padding-bottom: 20px;
+}
+
+.Page1 
+{
+   text-align: center;
+}
+
+.page2 {
+   text-align: center;
+   text-decoration: double;
+background-color: aqua;
+ margin-left: 50px;
+ margin-right: 50px;
+}

@@ -1,0 +1,41 @@
+.box1{
+    border: 2px solid black;
+    height: 300px;
+    width: 300px;
+    /* position: relative; */
+    top: 150px;
+    left: 100px;
+    
+
+    
+}
+
+.box1 h1{
+   position: relative; 
+   top: 100px;
+   right: 100px;
+   bottom: 200px;
+}
+
+
+h1{
+    position: sticky;
+    top: 0px;
+}
+
+.vi{
+ display: grid;
+     grid-template-rows: 1100px 200px 300px ;
+
+}
+
+.grid{
+    background-color: aquamarine;
+    color: red;
+    padding: 20px;
+}
+
+
+.container{
+    background-color: blue;
+}
